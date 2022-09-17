@@ -16,7 +16,7 @@ margin: 10px;
 
 div
 {
-color: white;
+color: rgba(255, 255, 255, 0.251);
 background-color: 009900;
 margin: 2px;
 font-size: 25px;
@@ -29,4 +29,4 @@ font-size: 25px;
 <div > div tag </div>
 
 </body>
-</html>
+
