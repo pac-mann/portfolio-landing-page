@@ -4,6 +4,29 @@ h1 {
 
   h3 {
     color: green;
-    font-style: italic;
-    text-align: center;
+    font-style: bold italic;
+    text-align: right;
   }
+
+
+p{
+background-color:gray;
+margin: 10px;
+}
+
+div
+{
+color: white;
+background-color: 009900;
+margin: 2px;
+font-size: 25px;
+}
+
+<body>
+<div > div tag </div>
+<div > div tag </div>
+<div > div tag </div>
+<div > div tag </div>
+
+</body>
+</html>
