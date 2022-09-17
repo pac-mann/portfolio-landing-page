@@ -8,25 +8,3 @@ h1 {
     text-align: left;
   }
 
-
-p{
-background-color:rgb(128, 128, 128);
-margin: 10px;
-}
-
-div
-{
-color: rgba(255, 255, 255, 0.251);
-background-color: rgb(128, 128, 128);
-margin: 2px;
-font-size: 25px;
-}
-
-<body>
-<div > div tag </div>
-<div > div tag </div>
-<div > div tag </div>
-<div > div tag </div>
-
-</body>
-
