@@ -10,14 +10,14 @@ h1 {
 
 
 p{
-background-color:gray;
+background-color:rgb(128, 128, 128);
 margin: 10px;
 }
 
 div
 {
 color: rgba(255, 255, 255, 0.251);
-background-color: 009900;
+background-color: rgb(128, 128, 128);
 margin: 2px;
 font-size: 25px;
 }
