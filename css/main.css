@@ -9,18 +9,9 @@ h1 {
   }
 
   
-  div
-  {
-  background-color: red;
-  margin: 2px;
-  font-size: 25px;
+  div { 
+    display: block;
+    color: blueviolet;
   }
-  
-  
-  <body>
-  <div > div ul </div>
-  <div > div h2 </div>
-  
-  </body>
   
   
